@@ -1,0 +1,2 @@
+ovs-ofctl dump-flows
+sh ovs-ofctl add-flow s11 in_port=1, actions=drop
