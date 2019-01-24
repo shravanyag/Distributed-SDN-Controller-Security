@@ -1,0 +1,6 @@
+curl -X GET http://localhost:8080/stats/switches
+curl -X GET http://localhost:8080/stats/role/<dpid>
+curl -X POST -d '{"dpid":<dpid>, "role":"MASTER"}' http://localhost:8080/stats/role
+curl -X POST -d '{"dpid":<dpid>, "role":"EQUAL"}' http://localhost:8080/stats/role
+curl -X POST -d '{"dpid":<dpid>, "role":"SLAVE"}' http://localhost:8080/stats/role
+curl -X POST -d '{"dpid":<dpid>, "priority":11111, "match":{"ipv4_src":"10.1.1.1", "ipv4_dst":"10.1.2.3"}, "actions":[]}'
