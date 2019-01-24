@@ -12,4 +12,4 @@ The folders present in the repository (for now) are as follows:
 1) Ryu - contains all Ryu code, curl command files
 2) Mininet - contains custom topologies programmed in Python
 
-You can subscribe to aristasdn.blogger.com to get to know more about the project.
+You can subscribe to http://aristasdn.blogspot.com to get to know more about the project.
