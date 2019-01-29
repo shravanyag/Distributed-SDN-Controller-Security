@@ -13,3 +13,5 @@ The folders present in the repository (for now) are as follows:
 2) Mininet - contains custom topologies programmed in Python
 
 You can subscribe to http://aristasdn.blogspot.com to get to know more about the project.
+
+The topology we are working on currently is uploaded.
