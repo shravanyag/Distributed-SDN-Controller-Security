@@ -14,4 +14,6 @@ The folders present in the repository (for now) are as follows:
 
 You can subscribe to http://aristasdn.blogspot.com to get to know more about the project.
 
-The topology we are working on currently is uploaded.
+The topology we are working on currently is:
+
+![alt text](architecture.png)
