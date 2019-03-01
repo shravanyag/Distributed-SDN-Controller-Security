@@ -14,6 +14,10 @@ The folders present in the repository (for now) are as follows:
 
 You can subscribe to http://aristasdn.blogspot.com to get to know more about the project.
 
-The topology we are working on currently is:
+The topology we have used for simulation is:
 
 ![alt text](architecture.png)
+
+The architecture we have used to implement the above topology is:
+
+![alt text](physicalArchitecture.png)
