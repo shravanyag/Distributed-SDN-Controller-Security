@@ -1,0 +1,46 @@
+global_defs 
+{
+	# Keepalived process identifier
+	lvs_id haproxy_DH
+}
+
+# Script used to check if HAProxy is running
+vrrp_script check_haproxy 
+{
+	script "killall -0 haproxy"
+	interval 2
+	weight 2
+}
+
+# Virtual interface
+# The priority specifies the order in which the assigned interface to take over in a failover
+
+vrrp_instance VI_01 
+{
+	state MASTER
+	interface enp2s0
+	virtual_router_id 51
+	priority 101
+	# The virtual ip address shared between the two loadbalancers
+	virtual_ipaddress 
+	{
+		10.0.0.5/24 brd 10.0.0.255 dev enp2s0
+	}
+	track_script
+	{
+		check_haproxy
+	}
+}
+
+vrrp_instance VI_02 
+{
+	state MASTER
+	interface enx00e04c360013
+	virtual_router_id 50
+	priority 101
+	# The virtual ip address shared between the two loadbalancers
+	virtual_ipaddress 
+	{
+		20.0.0.5/24 brd 20.0.0.255 dev enx00e04c360013
+	}
+}
