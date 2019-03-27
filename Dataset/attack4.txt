@@ -1,0 +1,1758 @@
+11:51:38.688572 IP 20.0.0.30.49294 > 10.0.0.5.6633: Flags [F.], seq 2036206:2036214, ack 3777561825, win 1764, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:51:38.689109 IP 10.0.0.5.6633 > 20.0.0.30.49294: Flags [F.], seq 57, ack 9, win 65472, length 0
+11:51:38.951634 IP 10.0.0.5.6633 > 20.0.0.30.49294: Flags [FP.], seq 1:57, ack 9, win 65472, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:51:40.191575 IP 20.0.0.30.49295 > 10.0.0.5.6633: Flags [S], seq 2029985, win 2144, options [mss 536], length 0
+11:51:40.191618 IP 10.0.0.5.6633 > 20.0.0.30.49295: Flags [S.], seq 2175350077, ack 2029986, win 29200, options [mss 1460], length 0
+11:51:41.191618 IP 10.0.0.5.6633 > 20.0.0.30.49295: Flags [S.], seq 2175350077, ack 2029986, win 29200, options [mss 1460], length 0
+11:51:42.195449 IP 20.0.0.30.49296 > 10.0.0.5.6633: Flags [S], seq 2048871, win 2144, options [mss 536], length 0
+11:51:42.195486 IP 10.0.0.5.6633 > 20.0.0.30.49296: Flags [S.], seq 1101383004, ack 2048872, win 29200, options [mss 1460], length 0
+11:51:42.724582 IP 20.0.0.30.49295 > 10.0.0.5.6633: Flags [S], seq 2029985, win 2144, options [mss 536], length 0
+11:51:42.724616 IP 10.0.0.5.6633 > 20.0.0.30.49295: Flags [S.], seq 2175350077, ack 2029986, win 29200, options [mss 1460], length 0
+11:51:43.207622 IP 10.0.0.5.6633 > 20.0.0.30.49296: Flags [S.], seq 1101383004, ack 2048872, win 29200, options [mss 1460], length 0
+11:51:43.559624 IP 10.0.0.5.6633 > 20.0.0.30.49294: Flags [FP.], seq 1:57, ack 9, win 65472, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:51:44.227545 IP 20.0.0.30.49274 > 10.0.0.5.6633: Flags [R.], seq 1675466, ack 1240196467, win 2144, length 0
+11:51:44.227561 IP 20.0.0.30.49297 > 10.0.0.5.6633: Flags [S], seq 2067767, win 2144, options [mss 536], length 0
+11:51:44.227587 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [S.], seq 1974515168, ack 2067768, win 29200, options [mss 1460], length 0
+11:51:44.727442 IP 20.0.0.30.49296 > 10.0.0.5.6633: Flags [S], seq 2048871, win 2144, options [mss 536], length 0
+11:51:44.727474 IP 10.0.0.5.6633 > 20.0.0.30.49296: Flags [S.], seq 1101383004, ack 2048872, win 29200, options [mss 1460], length 0
+11:51:44.730656 IP 20.0.0.30.49296 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:51:44.731837 IP 10.0.0.5.6633 > 20.0.0.30.49296: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x60a45bb9
+11:51:44.747636 IP 10.0.0.5.6633 > 20.0.0.30.49295: Flags [S.], seq 2175350077, ack 2029986, win 29200, options [mss 1460], length 0
+11:51:44.751040 IP 20.0.0.30.49295 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:51:44.752121 IP 10.0.0.5.6633 > 20.0.0.30.49295: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x2f08fa8f
+11:51:44.977439 IP 20.0.0.30.49295 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:51:44.977467 IP 20.0.0.30.49296 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:51:45.255628 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [S.], seq 1974515168, ack 2067768, win 29200, options [mss 1460], length 0
+11:51:45.258790 IP 20.0.0.30.49297 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:51:45.258831 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [.], ack 9, win 29200, length 0
+11:51:45.260132 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xe7fc2aee
+	version unknown (0x04), type 0x05, length 8, xid 0xe7fc2aef
+11:51:45.262803 IP 20.0.0.30.49297 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0xe7fc2aef
+11:51:45.263832 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+11:51:45.263977 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+11:51:45.267180 IP 20.0.0.30.49297 > 10.0.0.5.6633: Flags [.], ack 17, win 2128, length 0
+11:51:45.471616 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+11:51:45.895609 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+11:51:46.727618 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+11:51:48.391619 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+11:51:49.236415 IP 20.0.0.30.49297 > 10.0.0.5.6633: Flags [.], seq 41:65, ack 17, win 2128, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:51:49.279616 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [.], ack 65, win 29200, length 0
+11:51:51.239398 IP 20.0.0.30.49297 > 10.0.0.5.6633: Flags [.], seq 65:97, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:51:51.239421 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [.], ack 97, win 29200, length 0
+11:51:51.742364 IP 20.0.0.30.49297 > 10.0.0.5.6633: Flags [F.], seq 97:105, ack 17, win 2128, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:51:51.742927 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [FP.], seq 113:169, ack 106, win 29200, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:51:51.751627 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [FP.], seq 17:169, ack 106, win 29200, length 152: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:51:52.215490 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [S], seq 2086693, win 2144, options [mss 536], length 0
+11:51:52.215523 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [S.], seq 1334529906, ack 2086694, win 29200, options [mss 1460], length 0
+11:51:52.519621 IP 10.0.0.5.6633 > 20.0.0.30.49294: Flags [FP.], seq 1:57, ack 9, win 65472, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:51:53.223613 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [S.], seq 1334529906, ack 2086694, win 29200, options [mss 1460], length 0
+11:51:54.219348 IP 20.0.0.30.49276 > 10.0.0.5.6633: Flags [R.], seq 1708464, ack 2834888372, win 2144, length 0
+11:51:54.219371 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [S], seq 2105627, win 2144, options [mss 536], length 0
+11:51:54.219394 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [S.], seq 3230421659, ack 2105628, win 29200, options [mss 1460], length 0
+11:51:54.748351 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [S], seq 2086693, win 2144, options [mss 536], length 0
+11:51:54.748383 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [S.], seq 1334529906, ack 2086694, win 29200, options [mss 1460], length 0
+11:51:55.239612 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [S.], seq 3230421659, ack 2105628, win 29200, options [mss 1460], length 0
+11:51:55.242854 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:51:55.242888 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [.], ack 9, win 29200, length 0
+11:51:55.244175 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x4b3575bd
+	version unknown (0x04), type 0x05, length 8, xid 0x4b3575be
+11:51:55.246969 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x4b3575be
+11:51:55.247957 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x4b3575bf
+11:51:55.248145 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x4b3575c0
+11:51:55.455615 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x4b3575bf
+	version unknown (0x04), type 0x0e, length 80, xid 0x4b3575c0
+11:51:55.879612 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x4b3575bf
+	version unknown (0x04), type 0x0e, length 80, xid 0x4b3575c0
+11:51:56.711613 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x4b3575bf
+	version unknown (0x04), type 0x0e, length 80, xid 0x4b3575c0
+11:51:56.714836 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x4b3575bf
+11:51:56.755628 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [.], ack 249, win 30016, length 0
+11:51:56.775614 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [S.], seq 1334529906, ack 2086694, win 29200, options [mss 1460], length 0
+11:51:57.754475 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [S], seq 2086693, win 2144, options [mss 536], length 0
+11:51:57.754498 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [S.], seq 1334529906, ack 2086694, win 29200, options [mss 1460], length 0
+11:51:58.407617 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [FP.], seq 17:169, ack 106, win 29200, length 152: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:00.257190 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], seq 249:273, ack 113, win 2032, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:00.257231 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [.], ack 273, win 30016, length 0
+11:52:00.258032 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 113:137, ack 273, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:00.507331 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], ack 137, win 2008, length 0
+11:52:00.760306 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [S], seq 2086693, win 2144, options [mss 536], length 0
+11:52:00.760331 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [S.], seq 1334529906, ack 2086694, win 29200, options [mss 1460], length 0
+11:52:03.766433 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [S], seq 2086693, win 2144, options [mss 536], length 0
+11:52:03.766467 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [S.], seq 1334529906, ack 2086694, win 29200, options [mss 1460], length 0
+11:52:03.769807 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:52:03.770947 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xf66eb59a
+11:52:04.016148 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:52:04.266151 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], seq 273:297, ack 137, win 2008, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:52:04.266960 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [P.], seq 137:153, ack 297, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:04.516160 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], ack 153, win 1992, length 0
+11:52:07.245408 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [F.], seq 297, ack 153, win 1992, length 0
+11:52:07.245849 IP 10.0.0.5.6633 > 20.0.0.30.49299: Flags [F.], seq 153, ack 298, win 30016, length 0
+11:52:07.249026 IP 20.0.0.30.49299 > 10.0.0.5.6633: Flags [.], ack 154, win 1991, length 0
+11:52:07.746261 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [S], seq 2124615, win 2144, options [mss 536], length 0
+11:52:07.746294 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [S.], seq 997822855, ack 2124616, win 29200, options [mss 1460], length 0
+11:52:08.775628 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [S.], seq 997822855, ack 2124616, win 29200, options [mss 1460], length 0
+11:52:09.778385 IP 20.0.0.30.49275 > 10.0.0.5.6633: Flags [R.], seq 1691962, ack 4281102090, win 2144, length 0
+11:52:09.778399 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [S], seq 2143613, win 2144, options [mss 536], length 0
+11:52:09.778422 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [S.], seq 2514600638, ack 2143614, win 29200, options [mss 1460], length 0
+11:52:09.781369 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:52:09.781404 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 9, win 29200, length 0
+11:52:09.782702 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x096c1261
+11:52:09.782723 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x096c1262
+11:52:09.785244 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x096c1262
+11:52:09.786275 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x096c1263
+11:52:09.786417 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x096c1264
+11:52:09.991625 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x096c1263
+	version unknown (0x04), type 0x0e, length 80, xid 0x096c1264
+11:52:10.278125 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [S], seq 2124615, win 2144, options [mss 536], length 0
+11:52:10.278152 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [S.], seq 997822855, ack 2124616, win 29200, options [mss 1460], length 0
+11:52:10.407615 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x096c1263
+	version unknown (0x04), type 0x0e, length 80, xid 0x096c1264
+11:52:10.411003 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x096c1263
+11:52:10.451629 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 249, win 30016, length 0
+11:52:10.951621 IP 10.0.0.5.6633 > 20.0.0.30.49294: Flags [FP.], seq 1:57, ack 9, win 65472, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:11.719617 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [FP.], seq 17:169, ack 106, win 29200, length 152: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:12.295613 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [S.], seq 997822855, ack 2124616, win 29200, options [mss 1460], length 0
+11:52:12.784372 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x096c1263
+11:52:12.784393 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 249, win 30016, length 0
+11:52:13.284096 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [S], seq 2124615, win 2144, options [mss 536], length 0
+11:52:13.284119 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [S.], seq 997822855, ack 2124616, win 29200, options [mss 1460], length 0
+11:52:13.287243 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 249:257, ack 113, win 2032, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:13.287272 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 257, win 30016, length 0
+11:52:13.287913 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 113:121, ack 257, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:14.119612 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 113:121, ack 257, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:14.122709 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 257:265, ack 121, win 2024, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:14.123379 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 121:129, ack 265, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:15.783614 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 121:129, ack 265, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:16.290061 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [S], seq 2124615, win 2144, options [mss 536], length 0
+11:52:16.290084 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [S.], seq 997822855, ack 2124616, win 29200, options [mss 1460], length 0
+11:52:16.290094 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 257:265, ack 121, win 2024, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:16.290108 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 265, win 30016, length 0
+11:52:18.293208 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 265:297, ack 121, win 2024, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:18.293228 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 297, win 30016, length 0
+11:52:19.143613 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 121:129, ack 297, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:19.146566 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 297:305, ack 121, win 2024, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:19.146585 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 305, win 30016, length 0
+11:52:19.296062 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], ack 129, win 2016, length 0
+11:52:19.296087 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [P.], seq 129:169, ack 305, win 30016, length 40: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:19.296092 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [S], seq 2124615, win 2144, options [mss 536], length 0
+11:52:19.296107 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [S.], seq 997822855, ack 2124616, win 29200, options [mss 1460], length 0
+11:52:19.298926 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:52:19.300250 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x34f4ae69
+11:52:19.546058 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:52:21.299032 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], seq 305:313, ack 129, win 2016, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:52:21.299052 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [.], ack 313, win 30016, length 0
+11:52:22.275150 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [F.], seq 313, ack 129, win 2016, length 0
+11:52:22.275589 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [F.], seq 169, ack 314, win 30016, length 0
+11:52:22.278905 IP 20.0.0.30.49301 > 10.0.0.5.6633: Flags [.], ack 129, win 2016, length 0
+11:52:23.778292 IP 20.0.0.30.49278 > 10.0.0.5.6633: Flags [R.], seq 1741518, ack 2776339645, win 2144, length 0
+11:52:23.778315 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [S], seq 2162665, win 2144, options [mss 536], length 0
+11:52:23.778338 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [S.], seq 3854133034, ack 2162666, win 29200, options [mss 1460], length 0
+11:52:23.781395 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:52:23.781438 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 9, win 29200, length 0
+11:52:23.782631 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x6a2923a1
+11:52:23.782665 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x6a2923a2
+11:52:23.785417 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x6a2923a2
+11:52:23.786394 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x6a2923a3
+11:52:23.786601 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x6a2923a4
+11:52:23.991615 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x6a2923a3
+	version unknown (0x04), type 0x0e, length 80, xid 0x6a2923a4
+11:52:23.995155 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x6a2923a3
+11:52:24.035638 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 249, win 30016, length 0
+11:52:26.055616 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [FP.], seq 129:169, ack 314, win 30016, length 40: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:27.814122 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 249:273, ack 113, win 2032, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:27.814150 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 273, win 30016, length 0
+11:52:27.815065 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 113:121, ack 273, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:27.815113 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 121:137, ack 273, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:28.231627 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 113:137, ack 273, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:28.313977 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], ack 137, win 2008, length 0
+11:52:31.819969 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 273:297, ack 137, win 2008, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:31.820835 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 137:161, ack 297, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:32.647612 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 137:161, ack 297, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:32.650834 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 297:305, ack 161, win 1984, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:32.651493 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 161:169, ack 305, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:34.311613 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 161:169, ack 305, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:34.325960 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 297:305, ack 161, win 1984, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:34.325983 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 305, win 30016, length 0
+11:52:36.328929 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 305:329, ack 161, win 1984, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:36.328948 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 329, win 30016, length 0
+11:52:36.903078 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 329:439, ack 161, win 1984, length 110: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0a, length 102, xid 0x00000000
+11:52:36.903097 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 439, win 30016, length 0
+11:52:37.831613 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 161:169, ack 439, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:37.832446 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 439:455, ack 169, win 1976, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:37.832477 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 169:301, ack 455, win 30016, length 132: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0d, length 100, xid 0x6a2923a5
+11:52:37.922676 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 455:557, ack 169, win 1976, length 102: OpenFlow
+	version unknown (0x04), type 0x0a, length 102, xid 0x00000000
+11:52:37.922713 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 301:317, ack 557, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:37.923566 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], ack 317, win 1828, length 0
+11:52:37.924360 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 317:417, ack 557, win 30016, length 100: OpenFlow
+	version unknown (0x04), type 0x0d, length 100, xid 0x6a2923a6
+11:52:38.143613 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 317:417, ack 557, win 30016, length 100: OpenFlow
+	version unknown (0x04), type 0x0d, length 100, xid 0x6a2923a6
+11:52:38.599613 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 317:417, ack 557, win 30016, length 100: OpenFlow
+	version unknown (0x04), type 0x0d, length 100, xid 0x6a2923a6
+11:52:39.367615 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [FP.], seq 129:169, ack 314, win 30016, length 40: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:39.495613 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 317:417, ack 557, win 30016, length 100: OpenFlow
+	version unknown (0x04), type 0x0d, length 100, xid 0x6a2923a6
+11:52:39.623618 IP 10.0.0.5.6633 > 20.0.0.30.49297: Flags [FP.], seq 17:169, ack 106, win 29200, length 152: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe7fc2af0
+	version unknown (0x04), type 0x0e, length 80, xid 0xe7fc2af1
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:41.255613 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 317:417, ack 557, win 30016, length 100: OpenFlow
+	version unknown (0x04), type 0x0d, length 100, xid 0x6a2923a6
+11:52:41.258641 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 557:565, ack 417, win 1728, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:41.259475 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 417:425, ack 565, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:43.843881 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 565:573, ack 417, win 1728, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:43.844678 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 425:433, ack 573, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:44.347017 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 557:581, ack 417, win 1728, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:44.347046 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 581, win 30016, length 0
+11:52:44.733301 IP 10.0.0.5.6633 > 20.0.0.30.49296: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:52:44.736237 IP 20.0.0.30.49296 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:52:44.743627 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 417:433, ack 581, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:44.752452 IP 10.0.0.5.6633 > 20.0.0.30.49295: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:52:44.755496 IP 20.0.0.30.49295 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:52:44.846894 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], ack 433, win 1712, length 0
+11:52:44.846919 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 433:441, ack 581, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:47.815615 IP 10.0.0.5.6633 > 20.0.0.30.49294: Flags [FP.], seq 1:57, ack 9, win 65472, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:47.818466 IP 20.0.0.30.49294 > 10.0.0.5.6633: Flags [R.], seq 9, ack 58, win 2144, length 0
+11:52:48.352852 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 581:605, ack 433, win 1712, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:48.352873 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 605, win 30016, length 0
+11:52:48.353882 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [P.], seq 441:465, ack 605, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:48.356864 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], ack 433, win 1712, length 0
+11:52:50.358987 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], seq 605:637, ack 433, win 1712, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:50.399613 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [.], ack 637, win 30016, length 0
+11:52:50.831945 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [F.], seq 637:645, ack 433, win 1712, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:52:50.832513 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [FP.], seq 465:497, ack 646, win 30016, length 32: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:50.835577 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [.], ack 433, win 1712, length 0
+11:52:51.911621 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [FP.], seq 433:497, ack 646, win 30016, length 64: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:52:52.335093 IP 20.0.0.30.49303 > 10.0.0.5.6633: Flags [S], seq 2181831, win 2144, options [mss 536], length 0
+11:52:52.335125 IP 10.0.0.5.6633 > 20.0.0.30.49303: Flags [S.], seq 3504700219, ack 2181832, win 29200, options [mss 1460], length 0
+11:52:53.351628 IP 10.0.0.5.6633 > 20.0.0.30.49303: Flags [S.], seq 3504700219, ack 2181832, win 29200, options [mss 1460], length 0
+11:52:54.338823 IP 20.0.0.30.49279 > 10.0.0.5.6633: Flags [R.], seq 1758068, ack 409380536, win 2144, length 0
+11:52:54.338847 IP 20.0.0.30.49304 > 10.0.0.5.6633: Flags [S], seq 2201005, win 2144, options [mss 536], length 0
+11:52:54.338869 IP 10.0.0.5.6633 > 20.0.0.30.49304: Flags [S.], seq 3210855136, ack 2201006, win 29200, options [mss 1460], length 0
+11:52:54.867928 IP 20.0.0.30.49303 > 10.0.0.5.6633: Flags [S], seq 2181831, win 2144, options [mss 536], length 0
+11:52:54.867961 IP 10.0.0.5.6633 > 20.0.0.30.49303: Flags [S.], seq 3504700219, ack 2181832, win 29200, options [mss 1460], length 0
+11:52:55.367614 IP 10.0.0.5.6633 > 20.0.0.30.49304: Flags [S.], seq 3210855136, ack 2201006, win 29200, options [mss 1460], length 0
+11:52:56.370907 IP 20.0.0.30.49284 > 10.0.0.5.6633: Flags [R.], seq 1841356, ack 2332865867, win 2144, length 0
+11:52:56.370921 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [S], seq 2220189, win 2144, options [mss 536], length 0
+11:52:56.370944 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [S.], seq 3634124400, ack 2220190, win 29200, options [mss 1460], length 0
+11:52:56.870810 IP 20.0.0.30.49304 > 10.0.0.5.6633: Flags [S], seq 2201005, win 2144, options [mss 536], length 0
+11:52:56.870833 IP 10.0.0.5.6633 > 20.0.0.30.49304: Flags [S.], seq 3210855136, ack 2201006, win 29200, options [mss 1460], length 0
+11:52:56.871612 IP 10.0.0.5.6633 > 20.0.0.30.49303: Flags [S.], seq 3504700219, ack 2181832, win 29200, options [mss 1460], length 0
+11:52:57.383612 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [S.], seq 3634124400, ack 2220190, win 29200, options [mss 1460], length 0
+11:52:57.386535 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:52:57.386571 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [.], ack 9, win 29200, length 0
+11:52:57.387869 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x824a1f06
+11:52:57.387891 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x824a1f07
+11:52:57.390402 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x824a1f07
+11:52:57.391443 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x824a1f08
+11:52:57.391551 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x824a1f09
+11:52:57.394656 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x824a1f08
+11:52:57.435622 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [.], ack 249, win 30016, length 0
+11:52:57.599614 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x824a1f09
+11:52:57.873906 IP 20.0.0.30.49303 > 10.0.0.5.6633: Flags [S], seq 2181831, win 2144, options [mss 536], length 0
+11:52:57.873929 IP 10.0.0.5.6633 > 20.0.0.30.49303: Flags [S.], seq 3504700219, ack 2181832, win 29200, options [mss 1460], length 0
+11:52:57.876792 IP 20.0.0.30.49303 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:52:57.877845 IP 10.0.0.5.6633 > 20.0.0.30.49303: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xf5622fa6
+11:52:58.023612 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x824a1f09
+11:52:58.123777 IP 20.0.0.30.49303 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:52:58.855612 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x824a1f09
+11:52:58.887613 IP 10.0.0.5.6633 > 20.0.0.30.49304: Flags [S.], seq 3210855136, ack 2201006, win 29200, options [mss 1460], length 0
+11:52:58.890409 IP 20.0.0.30.49304 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:52:58.891477 IP 10.0.0.5.6633 > 20.0.0.30.49304: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xef9ac698
+11:52:59.123773 IP 20.0.0.30.49304 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:52:59.376900 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [.], seq 249:265, ack 33, win 2112, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:52:59.376919 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [.], ack 265, win 30016, length 0
+11:53:00.376917 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [.], seq 41:265, ack 33, win 2112, length 224: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x824a1f08
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:00.376945 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [.], ack 265, win 30016, length 0
+11:53:00.519614 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [P.], seq 33:113, ack 265, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x824a1f09
+11:53:00.626763 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [.], ack 113, win 2032, length 0
+11:53:03.356744 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [F.], seq 265, ack 113, win 2032, length 0
+11:53:03.357219 IP 10.0.0.5.6633 > 20.0.0.30.49305: Flags [F.], seq 113, ack 266, win 30016, length 0
+11:53:03.360234 IP 20.0.0.30.49305 > 10.0.0.5.6633: Flags [.], ack 114, win 2031, length 0
+11:53:03.771783 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:53:03.885860 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [S], seq 2239403, win 2144, options [mss 536], length 0
+11:53:03.885894 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [S.], seq 1830463334, ack 2239404, win 29200, options [mss 1460], length 0
+11:53:03.888982 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:03.889018 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [.], ack 9, win 29200, length 0
+11:53:03.890303 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x3f692749
+	version unknown (0x04), type 0x05, length 8, xid 0x3f69274a
+11:53:03.892997 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x3f69274a
+11:53:03.894022 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+11:53:03.894162 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+11:53:03.897374 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [.], ack 17, win 2128, length 0
+11:53:04.099622 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+11:53:04.519612 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+11:53:04.519623 IP 10.0.0.5.6633 > 20.0.0.30.49298: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:53:04.522984 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:53:05.351613 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+11:53:05.991615 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [FP.], seq 433:497, ack 646, win 30016, length 64: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:06.247629 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [FP.], seq 129:169, ack 314, win 30016, length 40: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:07.015625 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+11:53:07.891736 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [.], seq 41:57, ack 17, win 2128, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:53:07.935614 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [.], ack 57, win 29200, length 0
+11:53:09.897840 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [.], seq 41:57, ack 17, win 2128, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:53:09.897864 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [.], ack 57, win 29200, length 0
+11:53:09.897873 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [.], seq 57:89, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:53:09.897881 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [.], ack 89, win 29200, length 0
+11:53:10.343626 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [P.], seq 17:113, ack 89, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+11:53:10.871690 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [F.], seq 89:105, ack 17, win 2128, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:53:10.872320 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [FP.], seq 113:161, ack 106, win 29200, length 48: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:10.875449 IP 20.0.0.30.49306 > 10.0.0.5.6633: Flags [.], ack 17, win 2128, length 0
+11:53:12.374698 IP 20.0.0.30.49307 > 10.0.0.5.6633: Flags [S], seq 2258649, win 2144, options [mss 536], length 0
+11:53:12.374729 IP 10.0.0.5.6633 > 20.0.0.30.49307: Flags [S.], seq 2172527769, ack 2258650, win 29200, options [mss 1460], length 0
+11:53:13.383619 IP 10.0.0.5.6633 > 20.0.0.30.49307: Flags [S.], seq 2172527769, ack 2258650, win 29200, options [mss 1460], length 0
+11:53:14.406813 IP 20.0.0.30.49286 > 10.0.0.5.6633: Flags [R.], seq 1875128, ack 1107013531, win 2144, length 0
+11:53:14.406827 IP 20.0.0.30.49308 > 10.0.0.5.6633: Flags [S], seq 2277905, win 2144, options [mss 536], length 0
+11:53:14.406850 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [S.], seq 793403575, ack 2277906, win 29200, options [mss 1460], length 0
+11:53:14.906665 IP 20.0.0.30.49307 > 10.0.0.5.6633: Flags [S], seq 2258649, win 2144, options [mss 536], length 0
+11:53:14.906688 IP 10.0.0.5.6633 > 20.0.0.30.49307: Flags [S.], seq 2172527769, ack 2258650, win 29200, options [mss 1460], length 0
+11:53:14.910173 IP 20.0.0.30.49307 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:14.911236 IP 10.0.0.5.6633 > 20.0.0.30.49307: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xb676a5cd
+11:53:15.156678 IP 20.0.0.30.49307 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:15.431612 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [S.], seq 793403575, ack 2277906, win 29200, options [mss 1460], length 0
+11:53:16.382778 IP 20.0.0.30.49287 > 10.0.0.5.6633: Flags [R.], seq 1892044, ack 2519371687, win 2144, length 0
+11:53:16.382792 IP 20.0.0.30.49309 > 10.0.0.5.6633: Flags [S], seq 2297167, win 2144, options [mss 536], length 0
+11:53:16.382815 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [S.], seq 1989117499, ack 2297168, win 29200, options [mss 1460], length 0
+11:53:16.999628 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [FP.], seq 17:161, ack 106, win 29200, length 144: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:17.383612 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [S.], seq 1989117499, ack 2297168, win 29200, options [mss 1460], length 0
+11:53:17.412787 IP 20.0.0.30.49308 > 10.0.0.5.6633: Flags [S], seq 2277905, win 2144, options [mss 536], length 0
+11:53:17.412810 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [S.], seq 793403575, ack 2277906, win 29200, options [mss 1460], length 0
+11:53:17.416022 IP 20.0.0.30.49308 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:17.417183 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x585d09ee
+11:53:17.662667 IP 20.0.0.30.49308 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:18.386639 IP 20.0.0.30.49289 > 10.0.0.5.6633: Flags [R.], seq 1925920, ack 2742748181, win 2144, length 0
+11:53:18.386653 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [S], seq 2316437, win 2144, options [mss 536], length 0
+11:53:18.386676 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [S.], seq 1006469533, ack 2316438, win 29200, options [mss 1460], length 0
+11:53:18.389904 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:18.389938 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [.], ack 9, win 29200, length 0
+11:53:18.391161 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xaacf3353
+11:53:18.391182 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0xaacf3354
+11:53:18.394014 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0xaacf3354
+11:53:18.395047 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+11:53:18.395167 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:18.599624 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:18.915787 IP 20.0.0.30.49309 > 10.0.0.5.6633: Flags [S], seq 2297167, win 2144, options [mss 536], length 0
+11:53:18.915810 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [S.], seq 1989117499, ack 2297168, win 29200, options [mss 1460], length 0
+11:53:19.015612 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:19.300471 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:53:19.847614 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:20.071614 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:53:20.418774 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0xaacf3354
+11:53:20.418796 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [.], ack 41, win 29200, length 0
+11:53:20.935621 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [S.], seq 1989117499, ack 2297168, win 29200, options [mss 1460], length 0
+11:53:20.938879 IP 20.0.0.30.49309 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:20.939980 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x478a9f45
+11:53:21.168644 IP 20.0.0.30.49309 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:21.511618 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:21.575618 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:53:21.921764 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [.], seq 41:49, ack 17, win 2128, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:21.921783 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [.], ack 49, win 29200, length 0
+11:53:23.897723 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [F.], seq 49, ack 17, win 2128, length 0
+11:53:23.898161 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [F.], seq 113, ack 50, win 29200, length 0
+11:53:24.679621 IP 10.0.0.5.6633 > 20.0.0.30.49300: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:53:24.935615 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [FP.], seq 17:113, ack 50, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:25.400718 IP 20.0.0.30.49290 > 10.0.0.5.6633: Flags [R.], seq 1942880, ack 2127618932, win 2144, length 0
+11:53:25.400732 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [S], seq 2335735, win 2144, options [mss 536], length 0
+11:53:25.400755 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [S.], seq 2467782852, ack 2335736, win 29200, options [mss 1460], length 0
+11:53:25.427590 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [.], seq 9:49, ack 17, win 2128, length 40: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0xaacf3354
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:25.427614 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [.], ack 50, win 29200, length 0
+11:53:25.427618 IP 20.0.0.30.49310 > 10.0.0.5.6633: Flags [F.], seq 49, ack 17, win 2128, length 0
+11:53:25.427629 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [.], ack 50, win 29200, length 0
+11:53:26.407612 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [S.], seq 2467782852, ack 2335736, win 29200, options [mss 1460], length 0
+11:53:27.404582 IP 20.0.0.30.49300 > 10.0.0.5.6633: Flags [R.], seq 1, ack 9, win 2144, length 0
+11:53:27.404601 IP 20.0.0.30.49312 > 10.0.0.5.6633: Flags [S], seq 2355041, win 2144, options [mss 536], length 0
+11:53:27.404626 IP 10.0.0.5.6633 > 20.0.0.30.49312: Flags [S.], seq 1315704964, ack 2355042, win 29200, options [mss 1460], length 0
+11:53:27.933586 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [S], seq 2335735, win 2144, options [mss 536], length 0
+11:53:27.933609 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [S.], seq 2467782852, ack 2335736, win 29200, options [mss 1460], length 0
+11:53:28.423612 IP 10.0.0.5.6633 > 20.0.0.30.49312: Flags [S.], seq 1315704964, ack 2355042, win 29200, options [mss 1460], length 0
+11:53:29.436685 IP 20.0.0.30.49296 > 10.0.0.5.6633: Flags [R.], seq 1, ack 10, win 2144, length 0
+11:53:29.436702 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [S], seq 2374357, win 2144, options [mss 536], length 0
+11:53:29.436724 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [S.], seq 2067592367, ack 2374358, win 29200, options [mss 1460], length 0
+11:53:29.936580 IP 20.0.0.30.49312 > 10.0.0.5.6633: Flags [S], seq 2355041, win 2144, options [mss 536], length 0
+11:53:29.936603 IP 10.0.0.5.6633 > 20.0.0.30.49312: Flags [S.], seq 1315704964, ack 2355042, win 29200, options [mss 1460], length 0
+11:53:29.959624 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [S.], seq 2467782852, ack 2335736, win 29200, options [mss 1460], length 0
+11:53:30.311636 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [FP.], seq 17:161, ack 106, win 29200, length 144: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:30.439620 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [S.], seq 2067592367, ack 2374358, win 29200, options [mss 1460], length 0
+11:53:30.442546 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:30.442579 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 9, win 29200, length 0
+11:53:30.443928 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x1d78f0af
+	version unknown (0x04), type 0x05, length 8, xid 0x1d78f0b0
+11:53:30.446454 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x1d78f0b0
+11:53:30.447499 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x1d78f0b1
+11:53:30.447637 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x1d78f0b2
+11:53:30.450808 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x1d78f0b1
+11:53:30.491612 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 249, win 30016, length 0
+11:53:30.655610 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x1d78f0b2
+11:53:30.658804 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 249:465, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:30.658834 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 465, win 31088, length 0
+11:53:30.660529 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 465, win 31088, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:53:30.939699 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [S], seq 2335735, win 2144, options [mss 536], length 0
+11:53:30.939723 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [S.], seq 2467782852, ack 2335736, win 29200, options [mss 1460], length 0
+11:53:31.079619 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 465, win 31088, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:53:31.082927 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 465:681, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:31.123612 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 681, win 31752, length 0
+11:53:31.591614 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [FP.], seq 17:113, ack 50, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:31.911612 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 681, win 31752, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:53:31.914922 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 681:897, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:31.914941 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 897, win 32184, length 0
+11:53:31.943612 IP 10.0.0.5.6633 > 20.0.0.30.49312: Flags [S.], seq 1315704964, ack 2355042, win 29200, options [mss 1460], length 0
+11:53:31.946541 IP 20.0.0.30.49312 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:31.948377 IP 10.0.0.5.6633 > 20.0.0.30.49312: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x5eed5fbc
+11:53:32.189567 IP 20.0.0.30.49312 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:32.442539 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 897:905, ack 113, win 2032, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:32.442558 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 905, win 32184, length 0
+11:53:33.442542 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x1d78f0b1
+11:53:33.442562 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 905, win 32184, length 0
+11:53:33.442573 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 249:465, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:33.442580 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 905, win 32184, length 0
+11:53:33.575612 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 905, win 32184, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:53:33.578547 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [.], seq 905:1121, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:33.578566 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 1121, win 32616, length 0
+11:53:33.945521 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [S], seq 2335735, win 2144, options [mss 536], length 0
+11:53:33.945545 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [S.], seq 2467782852, ack 2335736, win 29200, options [mss 1460], length 0
+11:53:34.919544 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [F.], seq 1121, ack 113, win 2032, length 0
+11:53:34.919619 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [FP.], seq 433:497, ack 646, win 30016, length 64: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:34.959623 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 1122, win 32616, length 0
+11:53:35.448666 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [S], seq 2393697, win 2144, options [mss 536], length 0
+11:53:35.448699 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [S.], seq 1861222142, ack 2393698, win 29200, options [mss 1460], length 0
+11:53:36.455613 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [S.], seq 1861222142, ack 2393698, win 29200, options [mss 1460], length 0
+11:53:36.458510 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:36.458544 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [.], ack 9, win 29200, length 0
+11:53:36.459938 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x7fc39dc3
+	version unknown (0x04), type 0x05, length 8, xid 0x7fc39dc4
+11:53:36.462389 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x7fc39dc4
+11:53:36.463456 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x7fc39dc5
+11:53:36.463570 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x7fc39dc6
+11:53:36.667615 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x7fc39dc5
+	version unknown (0x04), type 0x0e, length 80, xid 0x7fc39dc6
+11:53:36.670877 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x7fc39dc5
+11:53:36.711612 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [.], ack 249, win 30016, length 0
+11:53:36.951500 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [F.], seq 1121, ack 113, win 2032, length 0
+11:53:36.951525 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 1122, win 32616, length 0
+11:53:36.951529 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [S], seq 2335735, win 2144, options [mss 536], length 0
+11:53:36.951542 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [S.], seq 2467782852, ack 2335736, win 29200, options [mss 1460], length 0
+11:53:36.954390 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:36.955549 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x0a29f6d5
+11:53:36.971622 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 1122, win 32616, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:53:36.974782 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [.], seq 249:473, ack 113, win 2032, length 224: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:36.974813 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [.], ack 473, win 31088, length 0
+11:53:36.976422 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 113:327, ack 473, win 31088, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+11:53:36.979640 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [.], seq 473:689, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:36.981758 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 327:645, ack 689, win 32160, length 318: OpenFlow
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:53:37.201376 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:37.415617 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 113:645, ack 689, win 32160, length 532: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:53:38.247626 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 113:645, ack 689, win 32160, length 532: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:53:39.454517 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [.], seq 249:689, ack 113, win 2032, length 440: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:39.454540 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [.], ack 689, win 32160, length 0
+11:53:39.911614 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [P.], seq 113:645, ack 689, win 32160, length 532: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:53:39.957487 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [F.], seq 689, ack 113, win 2032, length 0
+11:53:39.957952 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [F.], seq 645, ack 690, win 32160, length 0
+11:53:40.430633 IP 20.0.0.30.49315 > 10.0.0.5.6633: Flags [S], seq 2413055, win 2144, options [mss 536], length 0
+11:53:40.430665 IP 10.0.0.5.6633 > 20.0.0.30.49315: Flags [S.], seq 1642914218, ack 2413056, win 29200, options [mss 1460], length 0
+11:53:41.447612 IP 10.0.0.5.6633 > 20.0.0.30.49315: Flags [S.], seq 1642914218, ack 2413056, win 29200, options [mss 1460], length 0
+11:53:41.960496 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [F.], seq 1121, ack 113, win 2032, length 0
+11:53:41.960521 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 1122, win 32616, length 0
+11:53:42.434468 IP 20.0.0.30.49295 > 10.0.0.5.6633: Flags [R.], seq 1, ack 10, win 2144, length 0
+11:53:42.434484 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [S], seq 2432421, win 2144, options [mss 536], length 0
+11:53:42.434506 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:42.963473 IP 20.0.0.30.49315 > 10.0.0.5.6633: Flags [S], seq 2413055, win 2144, options [mss 536], length 0
+11:53:42.963496 IP 10.0.0.5.6633 > 20.0.0.30.49315: Flags [S.], seq 1642914218, ack 2413056, win 29200, options [mss 1460], length 0
+11:53:42.966965 IP 20.0.0.30.49315 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:42.968165 IP 10.0.0.5.6633 > 20.0.0.30.49315: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x9331f623
+11:53:43.213330 IP 20.0.0.30.49315 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:43.367625 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [FP.], seq 113:645, ack 690, win 32160, length 532: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:53:43.463612 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:43.623625 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 1122, win 32616, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:53:44.466583 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [.], seq 249:689, ack 113, win 2032, length 440: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:53:44.466604 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [.], ack 690, win 32160, length 0
+11:53:44.466609 IP 20.0.0.30.49314 > 10.0.0.5.6633: Flags [F.], seq 689, ack 113, win 2032, length 0
+11:53:44.466620 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [.], ack 690, win 32160, length 0
+11:53:44.466622 IP 20.0.0.30.49303 > 10.0.0.5.6633: Flags [R.], seq 1, ack 9, win 2144, length 0
+11:53:44.466635 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [S], seq 2451797, win 2144, options [mss 536], length 0
+11:53:44.466654 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [S.], seq 231093166, ack 2451798, win 29200, options [mss 1460], length 0
+11:53:44.903617 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [FP.], seq 17:113, ack 50, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:53:44.966475 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [S], seq 2432421, win 2144, options [mss 536], length 0
+11:53:44.966508 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:45.479637 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [S.], seq 231093166, ack 2451798, win 29200, options [mss 1460], length 0
+11:53:46.442564 IP 20.0.0.30.49304 > 10.0.0.5.6633: Flags [R.], seq 1, ack 9, win 2144, length 0
+11:53:46.442586 IP 20.0.0.30.49318 > 10.0.0.5.6633: Flags [S], seq 2471179, win 2144, options [mss 536], length 0
+11:53:46.442610 IP 10.0.0.5.6633 > 20.0.0.30.49318: Flags [S.], seq 2927346602, ack 2471180, win 29200, options [mss 1460], length 0
+11:53:46.983628 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:47.463623 IP 10.0.0.5.6633 > 20.0.0.30.49318: Flags [S.], seq 2927346602, ack 2471180, win 29200, options [mss 1460], length 0
+11:53:47.472586 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [S], seq 2451797, win 2144, options [mss 536], length 0
+11:53:47.472609 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [S.], seq 231093166, ack 2451798, win 29200, options [mss 1460], length 0
+11:53:47.972454 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [S], seq 2432421, win 2144, options [mss 536], length 0
+11:53:47.972477 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:48.446453 IP 20.0.0.30.49298 > 10.0.0.5.6633: Flags [R.], seq 1, ack 10, win 2144, length 0
+11:53:48.446469 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [S], seq 2490569, win 2144, options [mss 536], length 0
+11:53:48.446491 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [S.], seq 1286626810, ack 2490570, win 29200, options [mss 1460], length 0
+11:53:48.449573 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:48.449607 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [.], ack 9, win 29200, length 0
+11:53:48.450903 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x210c45ec
+	version unknown (0x04), type 0x05, length 8, xid 0x210c45ed
+11:53:48.453553 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x210c45ed
+11:53:48.454588 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x210c45ee
+11:53:48.454749 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x210c45ef
+11:53:48.457938 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x210c45ee
+11:53:48.472295 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [.], ack 113, win 2032, length 0
+11:53:48.499624 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [.], ack 249, win 30016, length 0
+11:53:48.975418 IP 20.0.0.30.49318 > 10.0.0.5.6633: Flags [S], seq 2471179, win 2144, options [mss 536], length 0
+11:53:48.975442 IP 10.0.0.5.6633 > 20.0.0.30.49318: Flags [S.], seq 2927346602, ack 2471180, win 29200, options [mss 1460], length 0
+11:53:48.978546 IP 20.0.0.30.49318 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:48.979651 IP 10.0.0.5.6633 > 20.0.0.30.49318: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xfc750685
+11:53:49.225287 IP 20.0.0.30.49318 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:49.479622 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [S.], seq 231093166, ack 2451798, win 29200, options [mss 1460], length 0
+11:53:49.975442 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [.], seq 41:257, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x210c45ee
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:49.975471 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [.], ack 257, win 30576, length 0
+11:53:50.023615 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [FP.], seq 113:645, ack 690, win 32160, length 532: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:53:50.478563 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [S], seq 2451797, win 2144, options [mss 536], length 0
+11:53:50.478586 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [S.], seq 231093166, ack 2451798, win 29200, options [mss 1460], length 0
+11:53:50.978290 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [S], seq 2432421, win 2144, options [mss 536], length 0
+11:53:50.978313 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:51.981411 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [F.], seq 257, ack 113, win 2032, length 0
+11:53:51.981434 IP 20.0.0.30.49313 > 10.0.0.5.6633: Flags [F.], seq 1121, ack 113, win 2032, length 0
+11:53:51.981453 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [.], ack 1122, win 32616, length 0
+11:53:51.981859 IP 10.0.0.5.6633 > 20.0.0.30.49319: Flags [F.], seq 113, ack 258, win 30576, length 0
+11:53:51.984654 IP 20.0.0.30.49319 > 10.0.0.5.6633: Flags [.], ack 114, win 2031, length 0
+11:53:53.484404 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [S], seq 2451797, win 2144, options [mss 536], length 0
+11:53:53.484428 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [S.], seq 231093166, ack 2451798, win 29200, options [mss 1460], length 0
+11:53:53.484432 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [S], seq 2509981, win 2144, options [mss 536], length 0
+11:53:53.484457 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [S.], seq 781037989, ack 2509982, win 29200, options [mss 1460], length 0
+11:53:53.487543 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:53.487577 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [.], ack 9, win 29200, length 0
+11:53:53.488869 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x521db634
+11:53:53.488891 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x521db635
+11:53:53.491626 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x521db635
+11:53:53.492652 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x521db636
+11:53:53.492815 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x521db637
+11:53:53.496017 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [.], ack 17, win 2128, length 0
+11:53:53.699618 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x521db636
+	version unknown (0x04), type 0x0e, length 80, xid 0x521db637
+11:53:53.984414 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [S], seq 2432421, win 2144, options [mss 536], length 0
+11:53:53.984437 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:54.119612 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x521db636
+	version unknown (0x04), type 0x0e, length 80, xid 0x521db637
+11:53:54.951613 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x521db636
+	version unknown (0x04), type 0x0e, length 80, xid 0x521db637
+11:53:54.954771 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x521db636
+11:53:54.995614 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [.], ack 249, win 30016, length 0
+11:53:56.490496 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [S], seq 2451797, win 2144, options [mss 536], length 0
+11:53:56.490519 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [S.], seq 231093166, ack 2451798, win 29200, options [mss 1460], length 0
+11:53:56.490529 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x521db636
+11:53:56.490540 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [.], ack 249, win 30016, length 0
+11:53:56.493871 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:53:56.493907 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [.], seq 249:257, ack 113, win 2032, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:53:56.493921 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [.], ack 257, win 30016, length 0
+11:53:56.495051 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x3f668a27
+11:53:56.699625 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x3f668a27
+11:53:56.740235 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:53:56.935625 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 1122, win 32616, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:53:56.990391 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [S], seq 2432421, win 2144, options [mss 536], length 0
+11:53:56.990415 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:53:57.447632 IP 10.0.0.5.6633 > 20.0.0.30.49306: Flags [FP.], seq 17:161, ack 106, win 29200, length 144: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x3f69274b
+	version unknown (0x04), type 0x0e, length 80, xid 0x3f69274c
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:59.495618 IP 10.0.0.5.6633 > 20.0.0.30.49301: Flags [FP.], seq 129:169, ack 314, win 30016, length 40: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:53:59.496350 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [F.], seq 257, ack 113, win 2032, length 0
+11:53:59.496810 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [F.], seq 113, ack 258, win 30016, length 0
+11:53:59.996371 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [S], seq 2432421, win 2144, options [mss 536], length 0
+11:53:59.996395 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:54:00.496222 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [F.], seq 257, ack 113, win 2032, length 0
+11:54:00.496258 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [.], ack 258, win 30016, length 0
+11:54:00.999489 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [S], seq 2529423, win 2144, options [mss 536], length 0
+11:54:00.999531 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [S.], seq 673747666, ack 2529424, win 29200, options [mss 1460], length 0
+11:54:01.159614 IP 10.0.0.5.6633 > 20.0.0.30.49320: Flags [F.], seq 113, ack 258, win 30016, length 0
+11:54:01.162714 IP 20.0.0.30.49320 > 10.0.0.5.6633: Flags [.], ack 114, win 2031, length 0
+11:54:02.023613 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [S.], seq 673747666, ack 2529424, win 29200, options [mss 1460], length 0
+11:54:02.026830 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:54:02.026865 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 9, win 29200, length 0
+11:54:02.028092 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x52a0f5f4
+11:54:02.028130 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x52a0f5f5
+11:54:02.031080 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x52a0f5f5
+11:54:02.032070 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x52a0f5f6
+11:54:02.032264 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x52a0f5f7
+11:54:02.239627 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x52a0f5f6
+	version unknown (0x04), type 0x0e, length 80, xid 0x52a0f5f7
+11:54:02.663612 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x52a0f5f6
+	version unknown (0x04), type 0x0e, length 80, xid 0x52a0f5f7
+11:54:03.335620 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [FP.], seq 113:645, ack 690, win 32160, length 532: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:54:03.495614 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x52a0f5f6
+	version unknown (0x04), type 0x0e, length 80, xid 0x52a0f5f7
+11:54:04.103625 IP 10.0.0.5.6633 > 20.0.0.30.49316: Flags [S.], seq 2912434793, ack 2432422, win 29200, options [mss 1460], length 0
+11:54:04.106712 IP 20.0.0.30.49316 > 10.0.0.5.6633: Flags [R.], seq 1, ack 1, win 2144, length 0
+11:54:05.159628 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x52a0f5f6
+	version unknown (0x04), type 0x0e, length 80, xid 0x52a0f5f7
+11:54:05.508303 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 9:57, ack 17, win 2128, length 48: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x52a0f5f5
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:05.508333 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 57, win 29200, length 0
+11:54:06.008174 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 57:65, ack 17, win 2128, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:06.008193 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 65, win 29200, length 0
+11:54:08.011165 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 65:97, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:08.011184 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 97, win 29200, length 0
+11:54:08.455613 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 17:113, ack 97, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x52a0f5f6
+	version unknown (0x04), type 0x0e, length 80, xid 0x52a0f5f7
+11:54:08.459041 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 97:305, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x52a0f5f6
+11:54:08.459074 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 113:169, ack 305, win 30016, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:11.783617 IP 10.0.0.5.6633 > 20.0.0.30.49310: Flags [FP.], seq 17:113, ack 50, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xaacf3355
+	version unknown (0x04), type 0x0e, length 80, xid 0xaacf3356
+11:54:11.787041 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 305:321, ack 169, win 1976, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:11.787837 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 169:185, ack 321, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:14.911968 IP 10.0.0.5.6633 > 20.0.0.30.49307: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:15.526117 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 321:345, ack 169, win 1976, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:15.526959 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 185:209, ack 345, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:15.623618 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 169:209, ack 345, win 30016, length 40: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:15.655617 IP 10.0.0.5.6633 > 20.0.0.30.49307: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:15.776112 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], ack 209, win 1936, length 0
+11:54:17.159614 IP 10.0.0.5.6633 > 20.0.0.30.49307: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:17.162485 IP 20.0.0.30.49307 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:54:17.417533 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:18.183624 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:19.687617 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:20.941055 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:21.538066 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 345:377, ack 209, win 1936, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:21.538961 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 209:217, ack 377, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:21.538987 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 217:241, ack 377, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:21.639623 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:21.788062 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], ack 217, win 1928, length 0
+11:54:22.791617 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:23.047613 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:24.071629 IP 10.0.0.5.6633 > 20.0.0.30.49313: Flags [P.], seq 113:327, ack 1122, win 32616, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x1d78f0b3
+11:54:24.074804 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 377:593, ack 217, win 1928, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:54:24.076476 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 241:455, ack 593, win 31088, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f8
+11:54:24.079548 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 593:809, ack 217, win 1928, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:54:24.080979 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 455:669, ack 809, win 31752, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f9
+11:54:24.084043 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], ack 217, win 1928, length 0
+11:54:25.607616 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 217:669, ack 809, win 31752, length 452: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f8
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f9
+11:54:25.610794 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 809:1049, ack 217, win 1928, length 240: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:54:25.651615 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 1049, win 32160, length 0
+11:54:25.863614 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:27.550054 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [.], seq 1049:1081, ack 217, win 1928, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:27.550074 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 1081, win 32160, length 0
+11:54:28.053177 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [F.], seq 1081:1089, ack 217, win 1928, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:28.053833 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [FP.], seq 669:1043, ack 1090, win 32160, length 374: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0e, length 104, xid 0x52a0f5fa
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5fb
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:28.526298 IP 20.0.0.30.49322 > 10.0.0.5.6633: Flags [S], seq 2548973, win 2144, options [mss 536], length 0
+11:54:28.526330 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [S.], seq 2512851438, ack 2548974, win 29200, options [mss 1460], length 0
+11:54:28.935614 IP 10.0.0.5.6633 > 20.0.0.30.49308: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:28.938393 IP 20.0.0.30.49308 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:54:29.543612 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [S.], seq 2512851438, ack 2548974, win 29200, options [mss 1460], length 0
+11:54:30.215621 IP 10.0.0.5.6633 > 20.0.0.30.49314: Flags [FP.], seq 113:645, ack 690, win 32160, length 532: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc7
+	version unknown (0x04), type 0x0e, length 104, xid 0x7fc39dc8
+	version unknown (0x04), type 0x0d, length 214, xid 0x7fc39dc9
+11:54:30.530154 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [S], seq 2568531, win 2144, options [mss 536], length 0
+11:54:30.530186 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [S.], seq 2870757198, ack 2568532, win 29200, options [mss 1460], length 0
+11:54:31.059131 IP 20.0.0.30.49322 > 10.0.0.5.6633: Flags [S], seq 2548973, win 2144, options [mss 536], length 0
+11:54:31.059154 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [S.], seq 2512851438, ack 2548974, win 29200, options [mss 1460], length 0
+11:54:31.495623 IP 10.0.0.5.6633 > 20.0.0.30.49309: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:31.498878 IP 20.0.0.30.49309 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:54:31.559612 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [S.], seq 2870757198, ack 2568532, win 29200, options [mss 1460], length 0
+11:54:31.562648 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:54:31.562682 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [.], ack 9, win 29200, length 0
+11:54:31.564096 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00dc58c2
+	version unknown (0x04), type 0x05, length 8, xid 0x00dc58c3
+11:54:31.566751 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x00dc58c3
+11:54:31.567766 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x00dc58c4
+11:54:31.567984 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x00dc58c5
+11:54:31.571253 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x00dc58c4
+11:54:31.611642 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [.], ack 249, win 30016, length 0
+11:54:31.775613 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x00dc58c5
+11:54:31.778895 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [.], ack 113, win 2032, length 0
+11:54:31.949855 IP 10.0.0.5.6633 > 20.0.0.30.49312: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:32.263639 IP 10.0.0.5.6633 > 20.0.0.30.49302: Flags [FP.], seq 433:497, ack 646, win 30016, length 64: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:32.266759 IP 20.0.0.30.49302 > 10.0.0.5.6633: Flags [R.], seq 646, ack 498, win 2144, length 0
+11:54:32.679627 IP 10.0.0.5.6633 > 20.0.0.30.49312: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:32.682758 IP 20.0.0.30.49312 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:54:32.775626 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 217:669, ack 1090, win 32160, length 452: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f8
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f9
+11:54:32.778869 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [.], seq 249:465, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:54:32.778898 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [.], ack 465, win 31088, length 0
+11:54:32.780549 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 113:327, ack 465, win 31088, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+11:54:32.783870 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [.], seq 465:681, ack 113, win 2032, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:54:32.785533 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 327:541, ack 681, win 31752, length 214: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:54:33.063618 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [S.], seq 2512851438, ack 2548974, win 29200, options [mss 1460], length 0
+11:54:33.066743 IP 20.0.0.30.49322 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:54:33.067967 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x9edf5fe4
+11:54:33.191626 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 113:541, ack 681, win 31752, length 428: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:54:33.311990 IP 20.0.0.30.49322 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:54:33.561990 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [.], seq 681:689, ack 113, win 2032, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:54:33.603615 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [.], ack 689, win 31752, length 0
+11:54:34.023618 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 113:541, ack 689, win 31752, length 428: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:54:34.065109 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [F.], seq 1081:1089, ack 217, win 1928, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:34.065136 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 1090, win 32160, length 0
+11:54:35.687616 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [P.], seq 113:541, ack 689, win 31752, length 428: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:54:36.041095 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [F.], seq 689, ack 113, win 2032, length 0
+11:54:36.041564 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [F.], seq 541, ack 690, win 31752, length 0
+11:54:36.542116 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [S], seq 2588113, win 2144, options [mss 536], length 0
+11:54:36.542149 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [S.], seq 2552646581, ack 2588114, win 29200, options [mss 1460], length 0
+11:54:36.545233 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:54:36.545268 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 9, win 29200, length 0
+11:54:36.546643 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xe5bcec2b
+	version unknown (0x04), type 0x05, length 8, xid 0xe5bcec2c
+11:54:36.549368 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0xe5bcec2c
+11:54:36.550406 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xe5bcec2d
+11:54:36.550564 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe5bcec2e
+11:54:36.553857 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0xe5bcec2d
+11:54:36.595612 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 249, win 30016, length 0
+11:54:36.759613 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe5bcec2e
+11:54:36.955399 IP 10.0.0.5.6633 > 20.0.0.30.49311: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:36.958588 IP 20.0.0.30.49311 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:54:37.191612 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe5bcec2e
+11:54:38.023612 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe5bcec2e
+11:54:38.070951 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0xe5bcec2d
+11:54:38.070974 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 249, win 30016, length 0
+11:54:38.574103 IP 20.0.0.30.49323 > 10.0.0.5.6633: Flags [F.], seq 689, ack 113, win 2032, length 0
+11:54:38.574129 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [.], ack 690, win 31752, length 0
+11:54:39.175622 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [FP.], seq 113:541, ack 690, win 31752, length 428: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:54:39.178692 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 249:465, ack 33, win 2112, length 216: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:54:39.178711 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 465, win 31088, length 0
+11:54:39.687615 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 33:113, ack 465, win 31088, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe5bcec2e
+11:54:40.077079 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 465:481, ack 33, win 2112, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:40.077098 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 481, win 31088, length 0
+11:54:42.080077 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0xe5bcec2d
+11:54:42.080097 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 481, win 31088, length 0
+11:54:42.080102 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 249:481, ack 33, win 2112, length 232: OpenFlow
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:42.080114 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 481, win 31088, length 0
+11:54:42.080123 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 481:513, ack 33, win 2112, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:42.080131 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 513, win 31088, length 0
+11:54:42.969448 IP 10.0.0.5.6633 > 20.0.0.30.49315: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:43.015613 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 33:113, ack 513, win 31088, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe5bcec2e
+11:54:43.018928 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [.], seq 513:737, ack 33, win 2112, length 224: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0a, length 216, xid 0x00000000
+11:54:43.018957 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 737, win 32160, length 0
+11:54:43.083072 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [F.], seq 737:745, ack 33, win 2112, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:43.123613 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 746, win 32160, length 0
+11:54:43.719614 IP 10.0.0.5.6633 > 20.0.0.30.49315: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:44.586034 IP 20.0.0.30.49315 > 10.0.0.5.6633: Flags [R.], seq 1, ack 9, win 2144, length 0
+11:54:44.586054 IP 20.0.0.30.49325 > 10.0.0.5.6633: Flags [S], seq 2607729, win 2144, options [mss 536], length 0
+11:54:44.586078 IP 10.0.0.5.6633 > 20.0.0.30.49325: Flags [S.], seq 2901198305, ack 2607730, win 29200, options [mss 1460], length 0
+11:54:45.085933 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [F.], seq 737:745, ack 33, win 2112, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:45.085959 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 746, win 32160, length 0
+11:54:45.607613 IP 10.0.0.5.6633 > 20.0.0.30.49325: Flags [S.], seq 2901198305, ack 2607730, win 29200, options [mss 1460], length 0
+11:54:45.831614 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [FP.], seq 113:541, ack 690, win 31752, length 428: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:54:46.089043 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [F.], seq 1081:1089, ack 217, win 1928, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:46.089068 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 1090, win 32160, length 0
+11:54:46.562034 IP 20.0.0.30.49318 > 10.0.0.5.6633: Flags [R.], seq 1, ack 9, win 2144, length 0
+11:54:46.562057 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [S], seq 2627351, win 2144, options [mss 536], length 0
+11:54:46.562081 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [S.], seq 2866735066, ack 2627352, win 29200, options [mss 1460], length 0
+11:54:47.111615 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 217:669, ack 1090, win 32160, length 452: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f8
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f9
+11:54:47.591612 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [S.], seq 2866735066, ack 2627352, win 29200, options [mss 1460], length 0
+11:54:47.592011 IP 20.0.0.30.49325 > 10.0.0.5.6633: Flags [S], seq 2607729, win 2144, options [mss 536], length 0
+11:54:47.592034 IP 10.0.0.5.6633 > 20.0.0.30.49325: Flags [S.], seq 2901198305, ack 2607730, win 29200, options [mss 1460], length 0
+11:54:47.594635 IP 20.0.0.30.49325 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:54:47.594669 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:54:47.594689 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [.], ack 9, win 29200, length 0
+11:54:47.596492 IP 10.0.0.5.6633 > 20.0.0.30.49325: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x6380fe5a
+11:54:47.596510 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x039c8da3
+11:54:47.596560 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x039c8da4
+11:54:47.599006 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [.], seq 9:17, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:54:47.599028 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [.], seq 17:49, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x039c8da4
+11:54:47.599062 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [.], ack 49, win 29200, length 0
+11:54:47.600146 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 17:33, ack 49, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x039c8da5
+11:54:47.600316 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 33:113, ack 49, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x039c8da6
+11:54:47.807614 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 17:113, ack 49, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x039c8da5
+	version unknown (0x04), type 0x0e, length 80, xid 0x039c8da6
+11:54:47.841899 IP 20.0.0.30.49325 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:54:48.231612 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 17:113, ack 49, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x039c8da5
+	version unknown (0x04), type 0x0e, length 80, xid 0x039c8da6
+11:54:49.063623 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 17:113, ack 49, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x039c8da5
+	version unknown (0x04), type 0x0e, length 80, xid 0x039c8da6
+11:54:49.066756 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [.], seq 49:257, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x039c8da5
+11:54:49.095028 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [F.], seq 737:745, ack 33, win 2112, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:49.095053 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [.], ack 746, win 32160, length 0
+11:54:49.107613 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [.], ack 257, win 30016, length 0
+11:54:49.671614 IP 10.0.0.5.6633 > 20.0.0.30.49324: Flags [P.], seq 33:113, ack 746, win 32160, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xe5bcec2e
+11:54:49.674887 IP 20.0.0.30.49324 > 10.0.0.5.6633: Flags [R.], seq 746, ack 113, win 2144, length 0
+11:54:52.600857 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [.], seq 49:281, ack 113, win 2032, length 232: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x039c8da5
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:52.600887 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [.], ack 281, win 30576, length 0
+11:54:52.601712 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 113:121, ack 281, win 30576, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:52.601750 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 121:137, ack 281, win 30576, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:54.247624 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [P.], seq 113:137, ack 281, win 30576, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:54.603864 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [.], seq 281:313, ack 113, win 2032, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:54.647614 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [.], ack 313, win 30576, length 0
+11:54:55.106990 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [F.], seq 313:321, ack 113, win 2032, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:55.107552 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [FP.], seq 137:169, ack 322, win 30576, length 32: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:55.579972 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [S], seq 2647009, win 2144, options [mss 536], length 0
+11:54:55.580004 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [S.], seq 1741355525, ack 2647010, win 29200, options [mss 1460], length 0
+11:54:55.582967 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:54:55.583001 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [.], ack 9, win 29200, length 0
+11:54:55.584315 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x6b995a46
+	version unknown (0x04), type 0x05, length 8, xid 0x6b995a47
+11:54:55.586828 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x6b995a47
+11:54:55.587834 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x6b995a48
+11:54:55.588002 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x6b995a49
+11:54:55.591235 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x6b995a48
+11:54:55.606832 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], ack 113, win 2032, length 0
+11:54:55.631614 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [.], ack 249, win 30016, length 0
+11:54:56.495561 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:56.903614 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:57.607616 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [FP.], seq 113:169, ack 322, win 30576, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:57.609819 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [F.], seq 281:321, ack 113, win 2032, length 40: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:57.609844 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [.], ack 322, win 30576, length 0
+11:54:57.735612 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:59.143618 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [FP.], seq 113:541, ack 690, win 31752, length 428: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:54:59.399625 IP 10.0.0.5.6633 > 20.0.0.30.49317: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:54:59.402807 IP 20.0.0.30.49317 > 10.0.0.5.6633: Flags [.], ack 10, win 2135, length 0
+11:54:59.615956 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], seq 249:265, ack 113, win 2032, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:54:59.615985 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [.], ack 265, win 30016, length 0
+11:54:59.616705 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 113:121, ack 265, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:59.616733 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 121:129, ack 265, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:59.827615 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 113:129, ack 265, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:54:59.865830 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], ack 129, win 2016, length 0
+11:55:03.621806 IP 20.0.0.30.49326 > 10.0.0.5.6633: Flags [F.], seq 281:321, ack 113, win 2032, length 40: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:03.621843 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [.], ack 322, win 30576, length 0
+11:55:03.621853 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], seq 265:289, ack 129, win 2016, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:03.622605 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 129:137, ack 289, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:03.622667 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 137:153, ack 289, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:04.039616 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 129:153, ack 289, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:04.263615 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [FP.], seq 113:169, ack 322, win 30576, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:04.903613 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [P.], seq 129:153, ack 289, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:05.124797 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], seq 265:313, ack 129, win 2016, length 48: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:05.124828 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [.], ack 313, win 30016, length 0
+11:55:05.627896 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [.], seq 313:321, ack 129, win 2016, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:05.627915 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [.], ack 321, win 30016, length 0
+11:55:06.100910 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [F.], seq 321:329, ack 129, win 2016, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:06.101458 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [FP.], seq 153:185, ack 330, win 30016, length 32: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:06.599614 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [FP.], seq 129:185, ack 330, win 30016, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:07.603881 IP 20.0.0.30.49328 > 10.0.0.5.6633: Flags [S], seq 2666715, win 2144, options [mss 536], length 0
+11:55:07.603914 IP 10.0.0.5.6633 > 20.0.0.30.49328: Flags [S.], seq 2168734573, ack 2666716, win 29200, options [mss 1460], length 0
+11:55:08.615624 IP 10.0.0.5.6633 > 20.0.0.30.49328: Flags [S.], seq 2168734573, ack 2666716, win 29200, options [mss 1460], length 0
+11:55:09.607728 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [S], seq 2686429, win 2144, options [mss 536], length 0
+11:55:09.607760 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [S.], seq 2100617803, ack 2686430, win 29200, options [mss 1460], length 0
+11:55:10.136883 IP 20.0.0.30.49328 > 10.0.0.5.6633: Flags [S], seq 2666715, win 2144, options [mss 536], length 0
+11:55:10.136907 IP 10.0.0.5.6633 > 20.0.0.30.49328: Flags [S.], seq 2168734573, ack 2666716, win 29200, options [mss 1460], length 0
+11:55:10.136911 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [F.], seq 1081:1089, ack 217, win 1928, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:10.136928 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [.], ack 1090, win 32160, length 0
+11:55:10.139997 IP 20.0.0.30.49328 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:55:10.141166 IP 10.0.0.5.6633 > 20.0.0.30.49328: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x9fc48608
+11:55:10.151616 IP 10.0.0.5.6633 > 20.0.0.30.49327: Flags [FP.], seq 129:185, ack 330, win 30016, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:10.154606 IP 20.0.0.30.49327 > 10.0.0.5.6633: Flags [R.], seq 330, ack 186, win 2144, length 0
+11:55:10.386756 IP 20.0.0.30.49328 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:55:10.631612 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [S.], seq 2100617803, ack 2686430, win 29200, options [mss 1460], length 0
+11:55:10.632346 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:55:10.632380 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [.], ack 9, win 29200, length 0
+11:55:10.633656 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 1:17, ack 9, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xc8f00619
+	version unknown (0x04), type 0x05, length 8, xid 0xc8f0061a
+11:55:10.634502 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0xc8f0061a
+11:55:10.635535 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0xc8f0061b
+11:55:10.635662 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0xc8f0061c
+11:55:10.636479 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0xc8f0061b
+11:55:10.636502 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], ack 113, win 2032, length 0
+11:55:10.679623 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [.], ack 249, win 30016, length 0
+11:55:11.519851 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], seq 249:351, ack 113, win 2032, length 102: OpenFlow
+	version unknown (0x04), type 0x0a, length 102, xid 0x00000000
+11:55:11.519880 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [.], ack 351, win 30016, length 0
+11:55:11.521479 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 113:213, ack 351, win 30016, length 100: OpenFlow
+	version unknown (0x04), type 0x0d, length 100, xid 0xc8f0061d
+11:55:11.639714 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], ack 213, win 1932, length 0
+11:55:15.145726 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], seq 351:375, ack 213, win 1932, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:15.146650 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 213:221, ack 375, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:15.146671 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 221:237, ack 375, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:15.363615 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 213:237, ack 375, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:15.815612 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 213:237, ack 375, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:16.711613 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [P.], seq 213:237, ack 375, win 30016, length 24: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:17.148713 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], seq 375:407, ack 213, win 1932, length 32: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:17.191613 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [.], ack 407, win 30016, length 0
+11:55:17.319625 IP 10.0.0.5.6633 > 20.0.0.30.49321: Flags [P.], seq 217:669, ack 1090, win 32160, length 452: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f8
+	version unknown (0x04), type 0x0d, length 214, xid 0x52a0f5f9
+11:55:17.575617 IP 10.0.0.5.6633 > 20.0.0.30.49326: Flags [FP.], seq 113:169, ack 322, win 30576, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:17.651672 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [F.], seq 407:415, ack 213, win 1932, length 8: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:17.651699 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [.], seq 351:375, ack 213, win 1932, length 24: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:17.651712 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [.], ack 416, win 30016, length 0
+11:55:17.651717 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [F.], seq 375:415, ack 213, win 1932, length 40: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:17.651726 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [.], ack 416, win 30016, length 0
+11:55:17.652276 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [FP.], seq 237:269, ack 416, win 30016, length 32: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:18.124805 IP 20.0.0.30.49330 > 10.0.0.5.6633: Flags [S], seq 2706177, win 2144, options [mss 536], length 0
+11:55:18.124838 IP 10.0.0.5.6633 > 20.0.0.30.49330: Flags [S.], seq 2800506381, ack 2706178, win 29200, options [mss 1460], length 0
+11:55:18.471618 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [FP.], seq 213:269, ack 416, win 30016, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:19.143613 IP 10.0.0.5.6633 > 20.0.0.30.49330: Flags [S.], seq 2800506381, ack 2706178, win 29200, options [mss 1460], length 0
+11:55:20.128668 IP 20.0.0.30.49307 > 10.0.0.5.6633: Flags [R.], seq 1, ack 10, win 2144, length 0
+11:55:20.128685 IP 20.0.0.30.49331 > 10.0.0.5.6633: Flags [S], seq 2725933, win 2144, options [mss 536], length 0
+11:55:20.128706 IP 10.0.0.5.6633 > 20.0.0.30.49331: Flags [S.], seq 1274282225, ack 2725934, win 29200, options [mss 1460], length 0
+11:55:20.657673 IP 20.0.0.30.49330 > 10.0.0.5.6633: Flags [S], seq 2706177, win 2144, options [mss 536], length 0
+11:55:20.657696 IP 10.0.0.5.6633 > 20.0.0.30.49330: Flags [S.], seq 2800506381, ack 2706178, win 29200, options [mss 1460], length 0
+11:55:20.660777 IP 20.0.0.30.49330 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:55:20.662099 IP 10.0.0.5.6633 > 20.0.0.30.49330: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0xadcc07e7
+11:55:20.907678 IP 20.0.0.30.49330 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:55:21.159617 IP 10.0.0.5.6633 > 20.0.0.30.49331: Flags [S.], seq 1274282225, ack 2725934, win 29200, options [mss 1460], length 0
+11:55:22.160799 IP 20.0.0.30.49321 > 10.0.0.5.6633: Flags [R.], seq 1090, ack 217, win 2144, length 0
+11:55:22.160819 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [S], seq 2745699, win 2144, options [mss 536], length 0
+11:55:22.160843 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [S.], seq 2514787818, ack 2745700, win 29200, options [mss 1460], length 0
+11:55:22.164023 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:55:22.164057 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [.], ack 9, win 29200, length 0
+11:55:22.165514 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x67344f52
+11:55:22.165536 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x67344f53
+11:55:22.168292 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x67344f53
+11:55:22.169343 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x67344f54
+11:55:22.169589 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x67344f55
+11:55:22.172919 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 33, win 2112, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x67344f54
+11:55:22.183627 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [FP.], seq 213:269, ack 416, win 30016, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:22.215612 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [.], ack 249, win 30016, length 0
+11:55:22.379613 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x67344f55
+11:55:22.660671 IP 20.0.0.30.49331 > 10.0.0.5.6633: Flags [S], seq 2725933, win 2144, options [mss 536], length 0
+11:55:22.660693 IP 10.0.0.5.6633 > 20.0.0.30.49331: Flags [S.], seq 1274282225, ack 2725934, win 29200, options [mss 1460], length 0
+11:55:22.791612 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x67344f55
+11:55:23.623613 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [P.], seq 33:113, ack 249, win 30016, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x67344f55
+11:55:23.663790 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [.], ack 113, win 2032, length 0
+11:55:24.679622 IP 10.0.0.5.6633 > 20.0.0.30.49331: Flags [S.], seq 1274282225, ack 2725934, win 29200, options [mss 1460], length 0
+11:55:24.682630 IP 20.0.0.30.49331 > 10.0.0.5.6633: Flags [.], ack 1, win 2144, length 0
+11:55:24.683832 IP 10.0.0.5.6633 > 20.0.0.30.49331: Flags [P.], seq 1:9, ack 1, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x0b6363b9
+11:55:24.913510 IP 20.0.0.30.49331 > 10.0.0.5.6633: Flags [.], ack 9, win 2136, length 0
+11:55:25.511627 IP 10.0.0.5.6633 > 20.0.0.30.49323: Flags [FP.], seq 113:541, ack 690, win 31752, length 428: OpenFlow
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c6
+	version unknown (0x04), type 0x0d, length 214, xid 0x00dc58c7
+11:55:26.166504 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [.], seq 249:257, ack 113, win 2032, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:55:26.166533 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [.], ack 257, win 30016, length 0
+11:55:27.643493 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [F.], seq 257, ack 113, win 2032, length 0
+11:55:27.643921 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [F.], seq 113, ack 258, win 30016, length 0
+11:55:27.669497 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [.], seq 249:257, ack 113, win 2032, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:55:27.669518 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [.], ack 258, win 30016, length 0
+11:55:27.669521 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [F.], seq 257, ack 113, win 2032, length 0
+11:55:27.669532 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [.], ack 258, win 30016, length 0
+11:55:29.146598 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [S], seq 2765491, win 2144, options [mss 536], length 0
+11:55:29.146629 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [S.], seq 70300596, ack 2765492, win 29200, options [mss 1460], length 0
+11:55:29.287625 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [F.], seq 113, ack 258, win 30016, length 0
+11:55:29.351626 IP 10.0.0.5.6633 > 20.0.0.30.49329: Flags [FP.], seq 213:269, ack 416, win 30016, length 56: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:29.354845 IP 20.0.0.30.49329 > 10.0.0.5.6633: Flags [R.], seq 416, ack 270, win 2144, length 0
+11:55:30.151612 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [S.], seq 70300596, ack 2765492, win 29200, options [mss 1460], length 0
+11:55:30.154717 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], seq 1:9, ack 1, win 2144, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x00000001
+11:55:30.154751 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [.], ack 9, win 29200, length 0
+11:55:30.156039 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 1:9, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x00, length 8, xid 0x400867b9
+11:55:30.156076 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 9:17, ack 9, win 29200, length 8: OpenFlow
+	version unknown (0x04), type 0x05, length 8, xid 0x400867ba
+11:55:30.158869 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], seq 9:41, ack 17, win 2128, length 32: OpenFlow
+	version unknown (0x04), type 0x06, length 32, xid 0x400867ba
+11:55:30.159883 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 17:33, ack 41, win 29200, length 16: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x400867bb
+11:55:30.160096 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 33:113, ack 41, win 29200, length 80: OpenFlow
+	version unknown (0x04), type 0x0e, length 80, xid 0x400867bc
+11:55:30.163342 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], ack 17, win 2128, length 0
+11:55:30.367624 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 17:113, ack 41, win 29200, length 96: OpenFlow
+	version unknown (0x04), type 0x12, length 16, xid 0x400867bb
+	version unknown (0x04), type 0x0e, length 80, xid 0x400867bc
+11:55:30.371217 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], seq 41:249, ack 113, win 2032, length 208: OpenFlow
+	version unknown (0x04), type 0x13, length 208, xid 0x400867bb
+11:55:30.411613 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [.], ack 249, win 30016, length 0
+11:55:32.679615 IP 10.0.0.5.6633 > 20.0.0.30.49332: Flags [F.], seq 113, ack 258, win 30016, length 0
+11:55:32.682573 IP 20.0.0.30.49332 > 10.0.0.5.6633: Flags [.], ack 114, win 2031, length 0
+11:55:33.069600 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:55:33.831614 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:55:35.335623 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:55:36.187439 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], seq 249:265, ack 113, win 2032, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:36.187474 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [.], ack 265, win 30016, length 0
+11:55:36.188223 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 113:121, ack 265, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:36.188253 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 121:129, ack 265, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:36.615619 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 113:129, ack 265, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:37.447614 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 113:129, ack 265, win 30016, length 16: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:37.450662 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], seq 265:281, ack 129, win 2016, length 16: OpenFlow
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+	version unknown (0x04), type 0x02, length 8, xid 0xd2040000
+11:55:37.451368 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 129:137, ack 281, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:37.451406 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 137:145, ack 281, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:37.690419 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], ack 137, win 2008, length 0
+11:55:37.991613 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 137:145, ack 281, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:38.311627 IP 10.0.0.5.6633 > 20.0.0.30.49322: Flags [F.], seq 9, ack 1, win 29200, length 0
+11:55:38.567612 IP 10.0.0.5.6633 > 20.0.0.30.49333: Flags [P.], seq 137:145, ack 281, win 30016, length 8: OpenFlow
+	version unknown (0x04), type 0x03, length 8, xid 0xd2040000
+11:55:38.693532 IP 20.0.0.30.49333 > 10.0.0.5.6633: Flags [.], ack 145, win 2000, length 0
+
